@@ -1,0 +1,3 @@
+package com.rdua.whiteboard.board_options_dialog.event
+
+object BoardOptionsDismissEvent

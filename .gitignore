@@ -1,0 +1,18 @@
+# Ігноруємо IDE-файли
+.idea/
+.vscode/
+
+# Ігноруємо згенеровані build-файли
+/build/
+*.class
+*.log
+
+# Ігноруємо файли, згенеровані Hilt/Dagger/Kapt
+app/build/
+annotations/
+app/generated/
+
+# Ігноруємо файли кешу
+*.iml
+*.swp
+*.swo

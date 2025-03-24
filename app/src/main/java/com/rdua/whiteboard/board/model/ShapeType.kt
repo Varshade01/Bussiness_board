@@ -1,0 +1,5 @@
+package com.rdua.whiteboard.board.model
+
+enum class ShapeType {
+    RECTANGLE, OVAL, TRIANGLE, STAR, ROUNDED_RECTANGLE, RHOMBUS, PARALLELOGRAM, PENTAGON, HEXAGON, LINE, RIGHT_ARROW, LEFT_ARROW
+}

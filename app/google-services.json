@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1089267041233",
+    "firebase_url": "https://whiteboard-8cb8b-default-rtdb.firebaseio.com",
+    "project_id": "whiteboard-8cb8b",
+    "storage_bucket": "whiteboard-8cb8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089267041233:android:4053deb732e5d57e5d16f0",
+        "android_client_info": {
+          "package_name": "com.rdua.whiteboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089267041233-gp1dc328b6mpdijbpqa13rh7v8oqgc96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02JAI0QcOp-z9YV1oGtxdcZ8C1sWsETw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089267041233-gp1dc328b6mpdijbpqa13rh7v8oqgc96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
